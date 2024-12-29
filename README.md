@@ -1,2 +1,2 @@
 # yash-demo
-This is my first respositiory
+This is my first respositiories
